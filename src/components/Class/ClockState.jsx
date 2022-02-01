@@ -18,6 +18,7 @@ class ClockState extends React.Component {
       }
     
       tick() {    this.setState({      date: new Date()    });  }
+      
       render() {
         return (
           <div>

@@ -1,7 +1,7 @@
 {
   "name": "my_5_daily_tasks",
   "version": "0.1.0",
-  "homepage": "http://AjuscoCodingBootcamp.github.io/react-app_Deploy_workshop",
+  "homepage": "http://AjuscoCodingBootcamp.github.io/react_basics",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",

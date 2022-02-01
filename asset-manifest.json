@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-app_Deploy_workshop/static/css/main.17ac3870.css",
+    "main.js": "/react-app_Deploy_workshop/static/js/main.79799924.js",
+    "static/js/787.29c713d1.chunk.js": "/react-app_Deploy_workshop/static/js/787.29c713d1.chunk.js",
+    "static/media/khale.jpg": "/react-app_Deploy_workshop/static/media/khale.b16c2f667e400ea7b413.jpg",
+    "static/media/logo.svg": "/react-app_Deploy_workshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-app_Deploy_workshop/index.html",
+    "main.17ac3870.css.map": "/react-app_Deploy_workshop/static/css/main.17ac3870.css.map",
+    "main.79799924.js.map": "/react-app_Deploy_workshop/static/js/main.79799924.js.map",
+    "787.29c713d1.chunk.js.map": "/react-app_Deploy_workshop/static/js/787.29c713d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ac3870.css",
+    "static/js/main.79799924.js"
+  ]
+}

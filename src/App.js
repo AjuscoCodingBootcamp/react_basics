@@ -6,12 +6,16 @@ import { ClockState } from './components/Class/ClockState';
 import {Login} from './components/Login/Login'
 import {Data} from './components/Data/data'
 import Appearance from './components/Appearance/Appearance';
+import FetchData from './components/FetchData/FetchData';
+import PokeSearcher from './components/PokeAPI/PokeSearcher';
+import { Rick_Morty } from './components/Rick&Morty/Rick&Morty';
+import PokeAPI from './components/PokeAPI/PokeAPI';
 
 function App() {
   return (
     <div className="App"> 
     <Appearance/>
-    <Data/>
+    <Counter/>
     </div>
   );
 }

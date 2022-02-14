@@ -6,8 +6,8 @@ function Counter() {
   // Similar a componentDidMount y componentDidUpdate:  
   useEffect(() => {   
          // Actualiza el título del documento usando la Browser API   
+         console.log("cambió el estado y se prendió el hook de effect")
           document.title = `You clicked ${count} times`;  });
-
   return (
     <div>
       <p>You clicked {count} times</p>
